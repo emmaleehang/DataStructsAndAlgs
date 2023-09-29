@@ -11,8 +11,8 @@ Data Structures:
     Linear Probing HashMap
     Linked Deque
 
-Algorithms:
-    Sorting:
+Algorithms
+Sorting:
         Insertion
         Cocktail
         Merge
@@ -20,14 +20,14 @@ Algorithms:
         Least Significant Digit Radix
         Heap
 
-    Pattern Matching:
+Pattern Matching:
         Knuth-Morris-Pratt
         Boyer Moore
         Rabin-Karp
-        
-    Graph:
+
+Graph:
         Breadth First Search (bfs)
         Depth First Search (dfs)
         Dijkstras' Algorithm
         Kruskal's Algorithm
-        
+
